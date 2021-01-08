@@ -3,7 +3,7 @@
 
 This is a placeholder README.md for a new repository
 
-I am just a man who forked this repo.
+I am just a man who forked this repo. And made some changes.
 
 ### License
 
