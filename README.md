@@ -2,6 +2,7 @@
 # test-repo-please-ignore
 
 This is a placeholder README.md for a new repository
+It will be marvelous once it's done.
 
 ### License
 
