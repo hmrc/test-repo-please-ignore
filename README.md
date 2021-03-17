@@ -3,8 +3,6 @@
 
 This is a placeholder README.md for a new repository
 
-waddamski PR test
-
 buildydeploy test
 
 More testing
